@@ -1,4 +1,4 @@
-https://github.com/Sameerking1648/ASK.git
+git clone https://github.com/Sameerking1648/ASK.git
 
 
 
